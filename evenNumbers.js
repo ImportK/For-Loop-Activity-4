@@ -1,0 +1,7 @@
+// Program that prints numbers from 1 to 10 using a for loop.
+for (let i = 1; i <= 10; i++) {
+    // Modify and print the even numbers only.
+    if (i % 2 === 0) { 
+        console.log(i);
+    }
+}
